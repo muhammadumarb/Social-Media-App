@@ -443,6 +443,10 @@ main .container .left .profile {
 
 .middle .feed .feeds .liked-by .caption .para {
     margin-top: 5px;
+    margin-bottom: 30px;
+}
+.para{
+    line-height: 15px;
     margin-bottom: 10px;
 }
 
